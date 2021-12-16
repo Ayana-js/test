@@ -1,0 +1,24 @@
+.newsBlock {
+    margin-left: 6%;
+    margin-top: 4%;
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 2fr 2fr 2fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.card {
+    animation: pulsing 2s;
+}
+
+@keyframes pulsing {
+    0% {
+      -webkit-transform: scale(0.5, 0.5);
+      transform: scale(0.5, 0.5)
+    }
+    50% {
+      -webkit-transform: scale(1.0, 1.0);
+      transform: scale(1.0, 1.0);
+    }
+  }
