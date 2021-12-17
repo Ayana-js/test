@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e38f5342.chunk.css",
+    "main.js": "./static/js/main.1e6ab6a9.chunk.js",
+    "main.js.map": "./static/js/main.1e6ab6a9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d81b2045.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d81b2045.js.map",
+    "static/js/2.54bc767c.chunk.js": "./static/js/2.54bc767c.chunk.js",
+    "static/js/2.54bc767c.chunk.js.map": "./static/js/2.54bc767c.chunk.js.map",
+    "static/js/3.ef579e27.chunk.js": "./static/js/3.ef579e27.chunk.js",
+    "static/js/3.ef579e27.chunk.js.map": "./static/js/3.ef579e27.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.e38f5342.chunk.css.map": "./static/css/main.e38f5342.chunk.css.map",
+    "static/js/2.54bc767c.chunk.js.LICENSE.txt": "./static/js/2.54bc767c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/background.0636509f.png",
+    "static/media/facebook.795fce8e.png": "./static/media/facebook.795fce8e.png",
+    "static/media/house1.53d332f5.jpg": "./static/media/house1.53d332f5.jpg",
+    "static/media/insta.e719d8b2.png": "./static/media/insta.e719d8b2.png",
+    "static/media/main1.c9af7d02.jpg": "./static/media/main1.c9af7d02.jpg",
+    "static/media/main2.617821cf.jpg": "./static/media/main2.617821cf.jpg",
+    "static/media/main3.c6da361e.jpg": "./static/media/main3.c6da361e.jpg",
+    "static/media/main4.e6ceb19c.jpg": "./static/media/main4.e6ceb19c.jpg",
+    "static/media/main5.6bdaa0d3.jpeg": "./static/media/main5.6bdaa0d3.jpeg",
+    "static/media/news1.798255f6.jpg": "./static/media/news1.798255f6.jpg",
+    "static/media/telegram.e8540dc1.png": "./static/media/telegram.e8540dc1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d81b2045.js",
+    "static/js/2.54bc767c.chunk.js",
+    "static/css/main.e38f5342.chunk.css",
+    "static/js/main.1e6ab6a9.chunk.js"
+  ]
+}
