@@ -4,7 +4,7 @@ import style from '../../About/About.module.css'
 const AboutDescription = () => {
     return <div className={style.aboutDescription}> 
         <h1> ПОЧЕМУ House VOP? </h1>
-        <div className={style.aboutDescription}>
+        <div className={style.aboutDescriptionBlocks}>
         <div className={style.aboutDescBlock}> 
            <p>
             Наши дома - теплые!
