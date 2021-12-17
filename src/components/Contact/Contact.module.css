@@ -1,0 +1,53 @@
+.main {
+    height: 2000px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.main p {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.card {
+    display: grid;
+    background-color:  #242B33 ;
+    grid-template-columns: 3fr 6fr;
+}
+
+.cardInfo {
+    padding: 5%;
+}
+
+.cardInfo span {
+    font-size: 40px;
+    color: white;
+}
+
+.cardInfoContact { 
+    margin-left: 10%;
+} 
+
+.cardInfoContact a {
+    text-decoration: none;
+    color: white;
+}
+
+.cardInfoContact  div{
+    width: 80%;
+}
+
+.cardMap {
+    padding: 5%;
+}
+
+.contactIcons {
+    margin-top: 30%;
+    margin-left: 15%;
+    display: flex;
+}
+
+.icon {
+    padding: 15px;
+}

@@ -1,0 +1,31 @@
+.main {
+    margin-left: 4%;
+}
+
+.portfolioBlock {
+    display: grid;
+    margin-left: 3%;
+    justify-content: center;
+    grid-template-rows: 2fr 2fr 2fr;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-gap: 20px;
+}
+
+.main h1 {
+    color: white;
+}
+
+.houseCard {
+    animation: pulsing 2s;
+}
+
+@keyframes pulsing {
+    0% {
+      -webkit-transform: scale(0.5, 0.5);
+      transform: scale(0.5, 0.5)
+    }
+    50% {
+      -webkit-transform: scale(1.0, 1.0);
+      transform: scale(1.0, 1.0);
+    }
+  }

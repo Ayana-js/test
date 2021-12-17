@@ -1,0 +1,52 @@
+.wrap {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    opacity: 70;
+}
+
+.firstWrap {
+    margin-left: 3%;
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.firstWrap p {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.secondWrap {
+    margin-left: 3%;
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+}
+
+.secondWrap p {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding-top: 30%;
+    padding-bottom: 37%;
+    text-align: center;
+}
+
+.thirdWrap {
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    margin-left: 3%;
+}
+
+.thirdWrap p {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 30%;
+}
+
+.background {
+    border-radius: 20px;
+}

@@ -1,0 +1,13 @@
+.app-wrapper {
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas: 
+  'header'
+  'content';
+  grid-template-rows: 1fr 8fr;
+  background: url('./img/background.png');
+}
+
+.app-wrapper-content {
+  grid-area: content;
+}

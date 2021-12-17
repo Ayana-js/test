@@ -1,0 +1,36 @@
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 3% 0 3% 40%;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .button {
+    background: none;
+    border: none;
+    outline: none;
+    margin-left: 16px;
+  }
+  
+  .button:hover {
+    cursor: pointer;
+  }
+  
+  .selected {
+    background-color: #d15858;
+    border-radius: 10px;
+    padding: 8px;
+  }
+
+  .text {
+      color: white;
+      font-size: 20px;
+  }
+
