@@ -31,21 +31,21 @@ class Contact extends React.Component {
                     <a  className={style.icon}
                         href="https://instagram.com/ihlaskg?utm_medium=copy_link"
                         target='_blank' rel='noopener noreferrer'>
-                        <img  src={instagramIcon} alt="" width='60px'/>
+                        <img  src={instagramIcon} alt="" width='40px'/>
                     </a>
                 </div>
                 <div>
                     <a  className={style.icon}
                         href="https://instagram.com/ihlaskg?utm_medium=copy_link"
                         target='_blank' rel='noopener noreferrer'>
-                        <img  src={telegramIcon} alt="" width='60px'/>
+                        <img  src={telegramIcon} alt="" width='40px'/>
                     </a>
                 </div>
                 <div>
                     <a  className={style.icon}
                         href="https://instagram.com/ihlaskg?utm_medium=copy_link"
                         target='_blank' rel='noopener noreferrer'>
-                        <img  src={facebookIcon} alt="" width='60px'/>
+                        <img  src={facebookIcon} alt="" width='40px'/>
                     </a>
                 </div>
                 </div>

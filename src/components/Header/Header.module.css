@@ -4,13 +4,13 @@
     margin-top: 2%;
     grid-area: header;
     padding-left: 13%;
-    padding-bottom: 0;
+    padding-bottom: 5px;
     background: url('../../img/logo.png') no-repeat;
 }
 
 .item {
-    width: 200px;
-    font-size: 25px;
+    width: 10%;
+    font-size: 20px;
     text-decoration: none;
     color: white;
     padding-right: 5%;
@@ -23,7 +23,7 @@
 }
 
 .headerContact {
-    font-size: 25px;
+    font-size: 20px;
     color: white;
-    width: 250px;
+    width: 20%;
 }

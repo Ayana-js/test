@@ -4,8 +4,10 @@
   grid-template-areas: 
   'header'
   'content';
-  grid-template-rows: 1fr 8fr;
+  grid-template-rows: 300px 5fr;
   background: url('./img/background.png');
+  max-width: 2500px;
+  min-width: 700px;
 }
 
 .app-wrapper-content {

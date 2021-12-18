@@ -13,7 +13,7 @@
 
 .firstWrap p {
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
     color: white;
 }
@@ -25,7 +25,7 @@
 }
 
 .secondWrap p {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     color: white;
     padding-top: 30%;
@@ -40,7 +40,7 @@
 }
 
 .thirdWrap p {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -49,4 +49,5 @@
 
 .background {
     border-radius: 20px;
+    width: 80%;
 }

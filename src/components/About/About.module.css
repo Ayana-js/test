@@ -11,7 +11,7 @@
 .aboutTitle {
     grid-area: 1;
     width: 60%;
-    margin-left: 8%;
+    margin-left: 5%;
     color: #D4C17F;
 }
 
@@ -28,8 +28,8 @@
 }
 
 .aboutInfo {
-    margin-left: 15%;
-    margin-top: 10%;
+    margin-left: 5%;
+    margin-top: 5%;
     grid-area: 2;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -41,7 +41,7 @@
     width: 300px;
     height: 300px;
     text-align: center;
-    padding-top: 7%;
+    padding-top: 5%;
     border: 10px #D4C17F solid;
     z-index: 1;
 }
@@ -57,8 +57,7 @@
 }
 
 .aboutDescription {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 5%;
     grid-area: 3;
 }
 

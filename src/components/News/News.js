@@ -12,11 +12,11 @@ class News extends React.Component {
     render() {
         return  <div className={style.newsBlock}> 
         {this.props.news.map(n=> <div key={n.id}> 
-           <Card className={style.card} sx={{ maxWidth: 500 }}>
+           <Card className={style.card} sx={{ maxWidth: 400 }}>
    <CardMedia
      component="img"
      alt="house"
-     height="280"
+     height="200"
      image= {newsImg1}
    />
    <CardContent>
