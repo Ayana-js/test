@@ -11,11 +11,11 @@ import style from '../../Portfolio/Portfolio.module.css'
 const HouseBlock = (props) => {
     return <div className={style.portfolioBlock}> 
          {props.sortingItems.map(h=> <div key={h.id}> 
-            <Card sx={{ maxWidth: 400 }} className={style.houseCard}>
+            <Card sx={{ maxWidth: 350 }} className={style.houseCard}>
     <CardMedia
       component="img"
       alt="house"
-      height="200"
+      height="180"
       image={House1}
     />
     <CardContent>

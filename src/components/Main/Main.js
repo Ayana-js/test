@@ -16,14 +16,13 @@ const Main = () => {
             <div className={style.secondWrap}>
                <div> <p> ТАМ ГДЕ ТЕПЛО И УЮТНО </p>
                     <img src={Main3} className={style.background}/> 
-                </div>    
+                </div>   
+                <div> 
                 <img src={Main4} className={style.background}/> 
-            </div>
-            <div className={style.thirdWrap}>
-               <img src={Main5} className={style.background}/> 
-               <p> МЫ ОБЪЕДИНИЛИ КРАСОТУ И КОМФОРТ</p>
-            </div>
-         </div>
+                <p> МЫ ОБЪЕДИНИЛИ КРАСОТУ И КОМФОРТ</p>
+                </div>
+                </div>
+                </div>
 }
 
 export default Main
